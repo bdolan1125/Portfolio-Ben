@@ -39,7 +39,10 @@ h1, h2 {
  text-align: center;
 }
 
-.quizimg {
+.prjsec{
+  margin-top: 33%;
+}
+.prjimg  {
   display: flex;
   align-items: center;
   justify-content: center;
