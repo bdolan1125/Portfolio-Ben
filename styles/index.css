@@ -28,8 +28,10 @@ body{
   align-items: center;
   justify-content: center;
 }
-
-h1, h2, p {
+p{
+  color: #00ff41;
+}
+h1, h2 {
   display: flex;
  color:#00ff41;
  font-family: monospace;
